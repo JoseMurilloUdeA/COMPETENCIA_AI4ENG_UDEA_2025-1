@@ -11,4 +11,4 @@ Santiago Zapata Barahona
 CC 1000761614
 Programa 504 Ingenieria de sistemas
 
-Link del video: https://youtu.be/-ypzUc5DzZA
+Link del video entrega FINAL: https://youtu.be/QdnHaZpmRaE
